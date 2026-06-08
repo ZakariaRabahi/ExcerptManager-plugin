@@ -1,11 +1,9 @@
 {
-	"id": "excerpt-manager",
+	"id": "ExcerptManager-plugin",
 	"name": "Excerpt Manager",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Manage scholarly excerpts from PDFs with typed relationships and graph visualization",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"author": "Zakaria",
 	"isDesktopOnly": false
 }
